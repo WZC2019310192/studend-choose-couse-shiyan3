@@ -1,4 +1,4 @@
-# studend-choose-couse-shiyan3  
+# studend-choose-couse-shiyan2  
 实验目的  
 
 初步了解分析系统需求，从学生选课角度了解系统中的实体及其关系，学会定义类中的属性以及方法 ；  
